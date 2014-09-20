@@ -14,7 +14,7 @@ Command line args
           -k <password>              password of your remote server
 
 
-          [-m <encrypt_method>]      encrypt method: table, rc4,
+          [-m <encrypt_method>]      encrypt method: table, rc4, rc4-md5
                                      aes-128-cfb, aes-192-cfb, aes-256-cfb,
                                      bf-cfb, camellia-128-cfb, camellia-192-cfb,
                                      camellia-256-cfb, cast5-cfb, des-cfb,
