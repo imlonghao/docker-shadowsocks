@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:latest
 MAINTAINER imlonghao <imlonghao@gmail.com>
 
 ADD http://dl.chenyufei.info/shadowsocks/shadowsocks-server-linux64-1.1.3.gz /etc/ss-server.gz

@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:latest
 MAINTAINER imlonghao <imlonghao@gmail.com>
 
 RUN echo "deb http://shadowsocks.org/debian wheezy main" >> /etc/apt/sources.list
