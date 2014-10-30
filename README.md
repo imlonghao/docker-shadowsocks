@@ -4,6 +4,7 @@ Introduce
 --------
 Some shadowsocks-* images for Docker user.
 
-shadowsocks-python
-shadowsocks-libev
-shadowsocks-go
+	shadowsocks-python
+	shadowsocks-libev
+	shadowsocks-go
+
